@@ -1,0 +1,1 @@
+web: gunicorn thais_list.wsgi
